@@ -28,3 +28,10 @@ print('% of passengers who survived in third class', np.mean(train['Survived'][t
 
 print('% of adults who survived', np.mean(train['Survived'][train['Age'] > 18]))
 print('% of children who survived', np.mean(train['Survived'][train['Age'] < 18]))
+
+train['Sex'] = train['Sex'].apply(lambda x: 1 if x == 'male' else 0)
+
+
+
+print("test")
+print(train['Sex'])
