@@ -1,0 +1,83 @@
+{
+    "honoka": {
+        "BWH": [
+            78,
+            58,
+            82
+        ],
+        "height": 157,
+        "test": "a"
+    },
+    "eri": {
+        "BWH": [
+            88,
+            60,
+            84
+        ],
+        "height": 162,
+        "test": "a"
+    },
+    "kotori": {
+        "BWH": [
+            80,
+            58,
+            80
+        ],
+        "height": 159,
+        "test": "a"
+    },
+    "umi": {
+        "BWH": [
+            76,
+            58,
+            80
+        ],
+        "height": 159,
+        "test": "a"
+    },
+    "rin": {
+        "BWH": [
+            75,
+            59,
+            80
+        ],
+        "height": 155,
+        "test": "a"
+    },
+    "mai": {
+        "BWH": [
+            78,
+            56,
+            83
+        ],
+        "height": 161,
+        "test": "a"
+    },
+    "nozomi": {
+        "BWH": [
+            90,
+            60,
+            82
+        ],
+        "height": 159,
+        "test": "a"
+    },
+    "hanayo": {
+        "BWH": [
+            82,
+            60,
+            83
+        ],
+        "height": 156,
+        "test": "a"
+    },
+    "niko": {
+        "BWH": [
+            74,
+            57,
+            79
+        ],
+        "height": 154,
+        "test": "a"
+    }
+}
