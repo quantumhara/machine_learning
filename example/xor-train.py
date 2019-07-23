@@ -19,12 +19,19 @@ for row in xor_data:
     data.append([p, q])
     label.append(r)
 
+print("xor_data=", xor_data)
 
-print("data set")
+
+print("label=", label)
+print("data set=")
+
 
 print("p", p)
 print("q", q)
 print("r", r)
+
+print("data=", data)
+
 
 clf = svm.SVC()
 clf.fit(data, label)
